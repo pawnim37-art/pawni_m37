@@ -22,8 +22,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/
-pawni-mishra-35b6aa383
-Vanity URL name
-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pawni-mishra-35b6aa383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+  </a>
 </p>
